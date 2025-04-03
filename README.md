@@ -1,3 +1,6 @@
+# 숫자맞추기게임 앱 (학습용)
+- 재시작 버튼 추가
+- 1~100숫자 맞추기
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
